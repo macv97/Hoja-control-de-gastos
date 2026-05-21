@@ -1,0 +1,6 @@
+# Excluir el archivo con datos financieros personales reales del usuario
+Control_Gastos_Completo.xlsx
+
+# Archivos temporales de Excel
+~$*.xlsx
+*.tmp
